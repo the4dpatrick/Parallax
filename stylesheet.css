@@ -1,10 +1,10 @@
 body {
 	background:#909eab url(bg.png);
+	line-height: 24px;
 }
 nav {
 	width: 567px;
-	margin: 0 auto;
-	padding-top: 20px;
+	margin: 30px auto;
 }
 nav ul ul {
 	display: none;
